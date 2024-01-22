@@ -1,2 +1,1 @@
-# sample-ethereum-pet-shop_3
-Sample Ethereum Pet Shop dApp taken from Truffleframework Tutorial
+ae6c35eea199418e3eec4ccc106bc8f8f1664666
